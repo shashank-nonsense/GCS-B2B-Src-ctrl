@@ -1,0 +1,65 @@
+{
+  "objectInfo" : {
+    "id" : "87R5vpSscBafi2coWrLoYA",
+    "name" : "mi_s3_source",
+    "type" : "MI_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "83211"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2024-05-30T09:19:57.628Z",
+  "objectRefs" : [ {
+    "id" : "1Jl3CQbb0m2iiYxgJjRiwC",
+    "name" : "Pavani",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0105VM2500000000003N"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "2CZgfqDunIZcxsnqrYx6Mm",
+    "name" : "aws_s3_shashank",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0105VM0B0000000001WZ"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "shashank",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
