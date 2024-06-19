@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "1OMs0CXwxenlB7QMlD94Cm",
+    "name" : "shashank",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-06-19T15:13:07.452Z",
+  "objectRefs" : [ ]
+}
