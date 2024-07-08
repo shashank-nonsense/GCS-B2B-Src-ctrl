@@ -1,0 +1,65 @@
+{
+  "objectInfo" : {
+    "id" : "1xUcU9vnnuEfcUf5zm3Qce",
+    "name" : "fl_MI",
+    "type" : "MI_FILE_LISTENER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "41883"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "FL with S3 source and attached to MI_fl task",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "updateTime" : "2024-07-08T15:27:17.363Z",
+  "objectRefs" : [ {
+    "id" : "4jpnDLPWW69eKPeMNd0noW",
+    "name" : "aws_s3_shashank",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJMT0B0000000001UG"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "lDs72sxG9eXdaUR33HENMQ",
+    "name" : "SAG_B2B",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJMT25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
